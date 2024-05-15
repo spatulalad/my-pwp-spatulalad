@@ -1,16 +1,14 @@
 
-
-div.logo {
-    position: relative;
-    top: 10px;
-    left: 50%;
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-div.about-me {
-    margin-left: 25%;
-    margin-top: 5%;
+.about-me {
 }
 
-div.gallery {
+
+.gallery {
 
 }
