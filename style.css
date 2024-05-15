@@ -1,9 +1,9 @@
 
 
 div.logo {
-    position: absolute;
-    top: 25px;
-    left: 40%;
+    position: relative;
+    top: 10px;
+    left: 50%;
 }
 
 div.about-me {
