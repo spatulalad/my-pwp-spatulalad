@@ -3,5 +3,14 @@
 div.logo {
     position: absolute;
     top: 25px;
-    left: 200px;
+    left: 40%;
+}
+
+div.about-me {
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+div.gallery {
+
 }
